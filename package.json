@@ -1,0 +1,27 @@
+{
+  "name": "jasmine-spy",
+  "version": "0.0.1",
+  "description": "Helper that works a shortcut to create jasmine spies that return values or promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devsu/jasmine-spy.git"
+  },
+  "keywords": [
+    "jasmine",
+    "spy",
+    "helper",
+    "promises",
+    "resolve",
+    "reject"
+  ],
+  "author": "Cesar Salazar @ Devsu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devsu/jasmine-spy/issues"
+  },
+  "homepage": "https://github.com/devsu/jasmine-spy#readme"
+}
